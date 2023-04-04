@@ -7,11 +7,11 @@
  * @n: bytes
  * Return: 0 always (Success)
  */
-char *_memset(char *p, char m, unsigned int n)
+char *_memset(char *s, char b, unsigned int n)
 {
 	unsigned int i;
 
 	for (i = 0; i < n; i++)
-		p[i] = m;
-	return (p);
+		s[i] = b;
+	return (s);
 }
