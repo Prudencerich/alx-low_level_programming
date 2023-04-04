@@ -3,12 +3,12 @@
 
 /**
  * _strchr - entry point of the program
- * @s: input
  * @c: input
+ * @s: input
  * Return: 0 always (success)
  */
 
-char *_strchr(char *s, char c);
+char *_strchr(char *s, char c)
 {
 	int i;
 
