@@ -4,7 +4,7 @@
 
 /**
   * main - Prints the products of two args numbers in program
-  * 
+  *
   * @argc: arguments count in a program
   *
   * @argv: argument of vector in a program
