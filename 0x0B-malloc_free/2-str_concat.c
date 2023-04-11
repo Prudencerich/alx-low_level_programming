@@ -11,7 +11,6 @@
   *
   * Return: the two strings concatenated function in the program.
   */
-
 char *str_concat(char *s1, char *s2)
 {
 	int i = 0, j = 0, k = 0, l = 0;
